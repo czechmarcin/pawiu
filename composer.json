@@ -1,0 +1,15 @@
+{
+    "name": "marcin/numberingtwo",
+    "authors": [
+        {
+            "name": "Marcin Czech",
+            "email": "czechmarcin@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "NumberApp\\": "src/"
+        }
+    }
+}
